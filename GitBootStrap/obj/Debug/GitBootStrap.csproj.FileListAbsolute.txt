@@ -1,0 +1,6 @@
+D:\git\vs2013\GitBootStrap\GitBootStrap\bin\GitBootStrap.dll.config
+D:\git\vs2013\GitBootStrap\GitBootStrap\bin\GitBootStrap.dll
+D:\git\vs2013\GitBootStrap\GitBootStrap\bin\GitBootStrap.pdb
+D:\git\vs2013\GitBootStrap\GitBootStrap\obj\Debug\GitBootStrap.csprojResolveAssemblyReference.cache
+D:\git\vs2013\GitBootStrap\GitBootStrap\obj\Debug\GitBootStrap.dll
+D:\git\vs2013\GitBootStrap\GitBootStrap\obj\Debug\GitBootStrap.pdb

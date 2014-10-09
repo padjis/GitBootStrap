@@ -1,0 +1,5 @@
+D:\git\vs2013\GitBootStrap\GitBootStrap.Tests\bin\Debug\GitBootStrap.Tests.dll
+D:\git\vs2013\GitBootStrap\GitBootStrap.Tests\bin\Debug\GitBootStrap.Tests.pdb
+D:\git\vs2013\GitBootStrap\GitBootStrap.Tests\obj\Debug\GitBootStrap.Tests.csprojResolveAssemblyReference.cache
+D:\git\vs2013\GitBootStrap\GitBootStrap.Tests\obj\Debug\GitBootStrap.Tests.dll
+D:\git\vs2013\GitBootStrap\GitBootStrap.Tests\obj\Debug\GitBootStrap.Tests.pdb
