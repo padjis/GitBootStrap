@@ -1,0 +1,14 @@
+D:\git\vs2013\GitBootStrap\GitBootStrap.GUI\obj\Debug\GitBootStrap.GUI.csprojResolveAssemblyReference.cache
+D:\git\vs2013\GitBootStrap\GitBootStrap.GUI\bin\GitBootStrap.GUI.dll.config
+D:\git\vs2013\GitBootStrap\GitBootStrap.GUI\bin\GitBootStrap.GUI.dll
+D:\git\vs2013\GitBootStrap\GitBootStrap.GUI\bin\GitBootStrap.GUI.pdb
+D:\git\vs2013\GitBootStrap\GitBootStrap.GUI\bin\GitBootStrap.Domain.dll
+D:\git\vs2013\GitBootStrap\GitBootStrap.GUI\bin\GitBootStrap.Service.dll
+D:\git\vs2013\GitBootStrap\GitBootStrap.GUI\bin\GitBootStrap.Data.dll
+D:\git\vs2013\GitBootStrap\GitBootStrap.GUI\bin\EntityFramework.dll
+D:\git\vs2013\GitBootStrap\GitBootStrap.GUI\bin\GitBootStrap.Domain.pdb
+D:\git\vs2013\GitBootStrap\GitBootStrap.GUI\bin\GitBootStrap.Service.pdb
+D:\git\vs2013\GitBootStrap\GitBootStrap.GUI\bin\GitBootStrap.Data.pdb
+D:\git\vs2013\GitBootStrap\GitBootStrap.GUI\bin\EntityFramework.xml
+D:\git\vs2013\GitBootStrap\GitBootStrap.GUI\obj\Debug\GitBootStrap.GUI.dll
+D:\git\vs2013\GitBootStrap\GitBootStrap.GUI\obj\Debug\GitBootStrap.GUI.pdb

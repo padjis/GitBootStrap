@@ -1,0 +1,12 @@
+D:\git\vs2013\GitBootStrap\GitBootStrap.Data\obj\Debug\GitBootStrap.Data.csprojResolveAssemblyReference.cache
+D:\git\vs2013\GitBootStrap\GitBootStrap.Data\bin\Debug\GitBootStrap.Data.dll.config
+D:\git\vs2013\GitBootStrap\GitBootStrap.Data\bin\Debug\GitBootStrap.Data.dll
+D:\git\vs2013\GitBootStrap\GitBootStrap.Data\bin\Debug\GitBootStrap.Data.pdb
+D:\git\vs2013\GitBootStrap\GitBootStrap.Data\bin\Debug\EntityFramework.dll
+D:\git\vs2013\GitBootStrap\GitBootStrap.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\git\vs2013\GitBootStrap\GitBootStrap.Data\bin\Debug\GitBootStrap.Domain.dll
+D:\git\vs2013\GitBootStrap\GitBootStrap.Data\bin\Debug\GitBootStrap.Domain.pdb
+D:\git\vs2013\GitBootStrap\GitBootStrap.Data\bin\Debug\EntityFramework.xml
+D:\git\vs2013\GitBootStrap\GitBootStrap.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\git\vs2013\GitBootStrap\GitBootStrap.Data\obj\Debug\GitBootStrap.Data.dll
+D:\git\vs2013\GitBootStrap\GitBootStrap.Data\obj\Debug\GitBootStrap.Data.pdb

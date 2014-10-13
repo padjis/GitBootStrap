@@ -1,0 +1,11 @@
+D:\git\vs2013\GitBootStrap\GitBootStrap.Service\bin\Debug\GitBootStrap.Service.dll
+D:\git\vs2013\GitBootStrap\GitBootStrap.Service\bin\Debug\GitBootStrap.Service.pdb
+D:\git\vs2013\GitBootStrap\GitBootStrap.Service\bin\Debug\GitBootStrap.Data.dll
+D:\git\vs2013\GitBootStrap\GitBootStrap.Service\bin\Debug\GitBootStrap.Domain.dll
+D:\git\vs2013\GitBootStrap\GitBootStrap.Service\bin\Debug\EntityFramework.dll
+D:\git\vs2013\GitBootStrap\GitBootStrap.Service\bin\Debug\GitBootStrap.Data.pdb
+D:\git\vs2013\GitBootStrap\GitBootStrap.Service\bin\Debug\GitBootStrap.Domain.pdb
+D:\git\vs2013\GitBootStrap\GitBootStrap.Service\bin\Debug\EntityFramework.xml
+D:\git\vs2013\GitBootStrap\GitBootStrap.Service\obj\Debug\GitBootStrap.Service.csprojResolveAssemblyReference.cache
+D:\git\vs2013\GitBootStrap\GitBootStrap.Service\obj\Debug\GitBootStrap.Service.dll
+D:\git\vs2013\GitBootStrap\GitBootStrap.Service\obj\Debug\GitBootStrap.Service.pdb
