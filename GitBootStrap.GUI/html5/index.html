@@ -1,0 +1,145 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Mine</title>
+<link href="../css/style.css" rel="stylesheet" style="text/css">
+
+<script type="text/javascript">
+document.getElementById("audio").muted = false;
+document.getElementById("video").play();
+
+var canvasContext = document.getElementById("canvas").getContext("2d");
+canvasContext.fillRect(250, 25, 150, 100);
+
+canvasContext.beginPath();
+canvasContext.arc(450, 110, 100, Math.PI * 1/2, Math.PI * 3/2);
+canvasContext.lineWidth = 15;
+canvasContext.lineCap = 'round';
+canvasContext.strokeStyle = 'rgba(255, 127, 0, 0.5)';
+canvasContext.stroke();
+</script>
+
+</head>
+<body>
+
+<header id="entete">
+	<h1>Mine</h1>
+</header>
+
+<nav>
+
+<a><label>Voitures</label></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a><label>Camions</label></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a><label>Motos</label></a>
+
+</nav>
+
+<article>
+	<section>
+		<h2>DataList</h2>
+		<input list="cars"/>
+		<datalist id="cars">
+		  <option value="BMW"/>
+		  <option value="Ford"/>
+		  <option value="Fiesta"/>
+		  <option value="Focus"/>
+		  <option value="Volvo"/>
+		</datalist>
+	</section>
+	<section>
+		<h2>Details</h2>
+		<details>
+		  <summary>HTML 5</summary>
+		  Ceci est un message caché
+		</details>
+	</section>
+	<section>
+		<h2>Progress Bars</h2>
+		meter
+		<meter min="0" max="100" low="40" high="90" optimum="100" value="91">A+</meter>
+		<br><br>
+		progress
+		<progress>working...</progress>
+		<br><br>
+		progress2
+		<progress value="75" max="100">3/4 complete</progress>
+	</section>
+	<section>
+		<h2>Microdata</h2>
+		<div itemscope itemtype="http://example.org/band">
+			 <p>My name is <span itemprop="name">Neil</span>.</p>
+			 <p>My band is called <span itemprop="band">Four Parts Water</span>.</p>
+			 <p>I am <span itemprop="nationality">British</span>.</p>
+		</div>
+	</section>
+	<section>
+		<h2>Formulaires</h2>
+		<input type="text" required /><br>
+		<input type="email" value="quelqueChose@email.com" /><br>
+		<input type="date" min="2010-08-14" max="2011-08-14" value="2010-08-14"/><br>
+		<input type="range" min="0" max="50" value="10" /><br>
+		<input type="search" results="10" placeholder="Search..." /><br>
+		<input type="tel"  placeholder="(555) 555-5555"
+		 pattern="^\(?\d{3}\)?[-\s]\d{3}[-\s]\d{4}.*?$" /><br>
+		<input type="color" /><br>
+		<input type="number" step="1" min="-5" max="10" value="0" /><br>
+	</section>
+	<section>
+		<h2>Audio</h2>
+		<audio id="audio" src="../mp3/mulan.mp3" controls></audio>
+	</section>
+	<section>
+		<h2>Video</h2>
+		<video id="video" src="../webm/ildivo.webm" autoplay controls></video>
+	</section>
+</article>
+
+<div>
+	<aside>
+		<section>
+			<h3>Image</h3>
+			<figure>
+				<img alt="My Pic Alt" src="../img/me.jpg">
+				<figcaption>My Pic</figcaption>
+			</figure>
+		</section>
+	</aside>
+	<aside>
+		<section>
+			<h3>Keyboard Navigation</h3>
+			<ul>
+				<li>
+					Next/Previous
+					<span class="key">+</span> 
+					 / 
+					<span class="key">-</span> 
+				</li>
+				<li>
+					Zoom
+					<span class="key">Ctrl/Commande</span> 
+					 + (
+					<span class="key">+</span> 
+					 / 
+					<span class="key">-</span>
+					)
+				</li>
+				<li>
+					Source Code
+					<span class="key">S</span>
+				</li>
+			</ul>
+		</section>
+	</aside>
+
+</div>
+<hr>
+
+<footer>Copyright &copy;  
+<time datetime="2010-11-08">2010</time>.
+ ESPRIT</footer>
+
+</body>
+</html>

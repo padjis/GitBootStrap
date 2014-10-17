@@ -1,0 +1,65 @@
+@CHARSET "ISO-8859-1";
+
+body{
+}
+
+body>header{
+	position:absolute;
+	top:0px;
+	width:100%;
+	text-align: center;
+	border: 1px solid black;
+	border-radius:30px;
+}
+
+body>nav{
+	position:absolute;
+	top:100px;
+	border: 1px solid black;
+	text-align: center;
+	width:100%;
+}
+
+body>div{
+	position:relative;
+	border: 1px solid black;
+	top:140px;
+	text-align: center;
+	border-radius:20px;
+	float: right;
+	width:29%;
+	bottom:0px;
+	 -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    height: 100%;
+    overflow: auto;
+}
+
+body>article{
+	position:absolute;
+	border: 1px solid black;
+	top:150px;
+	border-radius:20px;
+	float: left;
+	width:69%;
+	-webkit-column-count: 2; 
+	-webkit-column-rule: 1px solid #bbb;
+	-webkit-column-gap: 2em;
+}
+
+body>footer{
+	position:absolute;
+	top:1000px;
+	text-align: center;
+}
+
+
+  [required] {
+    border-color: #88a;
+    -webkit-box-shadow: 0 0 3px rgba(0, 0, 255, .5);
+  }
+  :invalid {
+    border-color: #e88;
+    -webkit-box-shadow: 0 0 5px rgba(255, 0, 0, .8);
+  }
